@@ -32,6 +32,7 @@ O Pokémon Search App é uma aplicação web simples que permite aos usuários p
 2. Instale as dependências.
 
 cd pokemon-search-app
+
 npm install
 
 3. Inicie a aplicação
