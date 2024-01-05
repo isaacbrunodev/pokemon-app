@@ -6,7 +6,7 @@
 
 ## Descrição
 
-O Pokémon Search App é uma aplicação web simples que permite aos usuários pesquisar informações sobre Pokémon. Ele utiliza a [PokeAPI](https://pokeapi.co/) para obter detalhes sobre Pokémon com base em seus nomes.
+O App de Busca Pokémon é uma aplicação web simples que permite aos usuários pesquisar informações sobre Pokémon. Ele utiliza a [PokeAPI](https://pokeapi.co/) para obter detalhes sobre Pokémon com base em seus nomes.
 
 ## Funcionalidades
 
