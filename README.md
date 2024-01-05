@@ -18,7 +18,7 @@ O App de Busca Pokémon é uma aplicação web simples que permite aos usuários
 
 ## Tecnologias Utilizadas
 
-- React: Uma biblioteca JavaScript para construção de interfaces de usuário.
+- React: foi escolhido porque facilita o desenvolvimento de partes diferentes da aplicação, tornando o código mais organizado. Ele ajuda a atualizar a aparência da aplicação quando o usuário interage e torna o programa mais rápido. ,há muitos recursos disponíveis para ajudar. Além disso, React facilita a conexão com outras partes da internet, como a PokeAPI, e existem ferramentas úteis que funcionam bem com React.
 
 - PokeAPI: Uma API gratuita para obter dados detalhados sobre Pokémon.
 
