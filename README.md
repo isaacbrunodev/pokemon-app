@@ -1,7 +1,7 @@
 #  App de Busca Pokémon
 
 ![Logo do Pokémon](./POKEMON.APP.png)
-![Pokemon Gif](APP-POKEMON.gif)
+![Pokemon Gif](APP_POKÉMON.gif)
 
 
 ## Descrição
